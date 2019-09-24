@@ -8,3 +8,4 @@ The stock of interest is NXP Semiconductors N.V. (NXPI) and is compared against 
 
 The Quadratic Regression 2 with the highest confidence among the 4 regression models was choosen: 0.7919698975806313
 
+![alt text](https://github.com/Unicorndy/Stock_analysis_Pandas_Scikit_Learn/blob/master/Forecast%20_for_NXPI_Stock.png?raw=true)
