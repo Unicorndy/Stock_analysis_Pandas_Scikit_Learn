@@ -5,3 +5,6 @@ This script is based on https://towardsdatascience.com/in-12-minutes-stocks-anal
 
 The stock of interest is NXP Semiconductors N.V. (NXPI) and is compared against the following stocks
 1)AAPL      2)GOOG      3)MSFT       4)QCOM
+
+The Quadratic Regression 2 with the highest confidence among the 4 regression models was choosen: 0.7919698975806313
+
